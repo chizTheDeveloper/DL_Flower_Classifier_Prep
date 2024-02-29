@@ -8,7 +8,7 @@ Familiarity with Linux environments.
 Basic understanding of deep learning concepts.
 Access to a suitable environment for training (Google Colab, personal GPU-enabled machine, EC2, etc.).
 
-**Task Summary**
+**Task Summary**  
 *Task 1: Dataset Preparation*  
 Download the Oxford Flowers dataset.  
 Prepare the dataset in the SubFolder format compatible with mmpretrain structure. 
