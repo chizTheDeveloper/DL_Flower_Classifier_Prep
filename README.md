@@ -1,4 +1,4 @@
-#Image Classification with mmpretrain
+# Image Classification with mmpretrain
 
 **Overview**
 This repository contains code for training an image classification model using mmpretrain, with a focus on familiarizing oneself with openmmlab projects and the associated tech stack. The primary learning outcomes include getting comfortable with training computer vision deep learning models using openmmlab projects and understanding the structure of these projects.
